@@ -1,2 +1,2 @@
-MD033: false
-MD013: false
+MD033: false # Allow Raw HTML
+MD013: false # Allow more than 80 characters in a line
